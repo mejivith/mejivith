@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="a niri desktop: a dithered moon, fastfetch output, and a half-visible window with the cachyos-rice repository" width="100%">
+  <img src="assets/b2557fbf23651e6a2269c0114faf2b49.gif" alt="" width="100%">
 </p>
 
 <p align="center">
