@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="a niri desktop: a dithered moon, fastfetch output, and a half-visible window with the cachyos-rice repository" width="100%">
+</p>
 
-<!--
-**mejivith/mejivith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%">
+</p>
 
-Here are some ideas to get you started:
+<img src="assets/h-about.svg" alt="about" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I run Linux on Wayland and spend more time on my desktop than I should.<br>
+Tiling, terminals, dotfiles, wallpapers. I like things that are quiet, fast and look like they were made on purpose.
+
+<img src="assets/h-stack.svg" alt="stack" width="100%">
+
+<p>
+  <img src="assets/badges/cachyos.svg" alt="CachyOS">
+  <img src="assets/badges/niri.svg" alt="niri">
+  <img src="assets/badges/noctalia.svg" alt="noctalia">
+  <img src="assets/badges/kitty.svg" alt="kitty">
+</p>
+<p>
+  <img src="assets/badges/fastfetch.svg" alt="fastfetch">
+  <img src="assets/badges/wayland.svg" alt="wayland">
+  <img src="assets/badges/arch.svg" alt="arch based">
+  <img src="assets/badges/kanagawa.svg" alt="kanagawa dragon">
+</p>
+
+<img src="assets/h-now.svg" alt="now" width="100%">
+
+Building [cachyos-rice](https://github.com/mejivith/cachyos-rice): my CachyOS setup with Niri, Noctalia, Kitty, Fastfetch, configs and wallpapers.
+
+<img src="assets/h-contact.svg" alt="contact" width="100%">
+
+<p>
+  <a href="https://github.com/mejivith"><img src="assets/badges/github.svg" alt="github"></a>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%">
+</p>
