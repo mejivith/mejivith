@@ -1,41 +1,11 @@
 <p align="center">
-  <img src="assets/mejivithnobg.png" alt="" width="100%">
+  <img src="assets/banner.svg" alt="mejivith" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%">
-</p>
-
-<img src="assets/h-about.svg" alt="about" width="100%">
-
-I run Linux on Wayland and spend more time on my desktop than I should.<br>
-Tiling, terminals, dotfiles, wallpapers. I like things that are quiet, fast and look like they were made on purpose.
-
-<img src="assets/h-stack.svg" alt="stack" width="100%">
-
-<p>
-  <img src="assets/badges/cachyos.svg" alt="CachyOS">
-  <img src="assets/badges/niri.svg" alt="niri">
-  <img src="assets/badges/noctalia.svg" alt="noctalia">
-  <img src="assets/badges/kitty.svg" alt="kitty">
-</p>
-<p>
-  <img src="assets/badges/fastfetch.svg" alt="fastfetch">
-  <img src="assets/badges/wayland.svg" alt="wayland">
-  <img src="assets/badges/arch.svg" alt="arch based">
-  <img src="assets/badges/kanagawa.svg" alt="kanagawa dragon">
-</p>
-
-<img src="assets/h-now.svg" alt="now" width="100%">
-
-Building [cachyos-rice](https://github.com/mejivith/cachyos-rice): my CachyOS setup with Niri, Noctalia, Kitty, Fastfetch, configs and wallpapers.
-
-<img src="assets/h-contact.svg" alt="contact" width="100%">
-
-<p>
-  <a href="https://github.com/mejivith"><img src="assets/badges/github.svg" alt="github"></a>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="100%">
+  <a href="https://github.com/mejivith"><img src="assets/social-github.svg" alt="GitHub"/></a>
+  <a href="https://t.me/anticommando"><img src="assets/social-telegram.svg" alt="Telegram"/></a>
+  <a href="https://youtube.com/@helllasttry"><img src="assets/social-youtube.svg" alt="YouTube"/></a>
+  <a href="mailto:poshelvpizdu@web.de"><img src="assets/social-mail.svg" alt="Email"/></a>
+  <a href="https://discord.com/users/33300123"><img src="assets/social-discord.svg" alt="Discord"/></a>
 </p>
